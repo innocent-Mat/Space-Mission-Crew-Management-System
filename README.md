@@ -138,3 +138,4 @@ This project demonstrates:
 ## Author
 
 Developed as a JavaScript practice project for learning data structures, algorithms, and mission crew management concepts.
+Innocent Joseph Matabaro 
